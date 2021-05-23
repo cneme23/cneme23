@@ -31,7 +31,7 @@ People call me Tati, currently attending the 16-week, full-time, live remote Ful
 <br />
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cneme23&theme=dark&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cneme23&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cneme23&theme=dark&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cneme23&hide=TeX&layout=compact&theme=dark)
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=cneme23&theme=dark)
 
