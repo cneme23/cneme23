@@ -11,7 +11,7 @@
 
 People call me Tati, currently attending the 16-week, full-time, live remote Full Stack Web Developer Bootcamp at [Henry](https://www.soyhenry.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielpasquantonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosdneme/)](https://www.linkedin.com/in/carlosdneme/)
+[![Linkedin Badge](https://img.shields.io/badge/-cneme23-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosdneme/)](https://www.linkedin.com/in/carlosdneme/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosneme23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosneme23@gmail.com)](mailto:carlosneme23@gmail.com)
 <br />
 <br />
