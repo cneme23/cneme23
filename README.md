@@ -5,7 +5,7 @@
  <img align="right" alt="GIF" src="https://github.com/cneme23/cneme23/blob/main/giphy.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Argentinian, Developer and Life Enthusiast!!
+## I'm an Argentinian, Developer and Life Enthusiast!!
 
 
 
